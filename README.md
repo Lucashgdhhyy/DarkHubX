@@ -1,4 +1,4 @@
-# All scripts here! of Dark Hub X
+# Todos os scripts de Dark Hub X aqui!
 
 ## Blox Fruit
 ```lua
